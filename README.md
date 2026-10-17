@@ -1,2 +1,2 @@
-# greenscan🌱
-Website Edukasi Tumbuhan Berbasis QR Code
+# greenscanemha🌱
+Website Edukasi Tumbuhan SMK Miftahul Hikmah Berbasis QR Code
